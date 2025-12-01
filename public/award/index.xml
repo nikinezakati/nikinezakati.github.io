@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Awards | Mahbod Afarin</title>
+    <link>https://yuedong.netlify.app/award/</link>
+      <atom:link href="https://yuedong.netlify.app/award/index.xml" rel="self" type="application/rss+xml" />
+    <description>Awards</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language>
+    <image>
+      <url>https://yuedong.netlify.app/media/icon_hude6647c33698b0c9461fcaf8acec85e5_276622_512x512_fill_lanczos_center_3.png</url>
+      <title>Awards</title>
+      <link>https://yuedong.netlify.app/award/</link>
+    </image>
+    
+    <item>
+      <title></title>
+      <link>https://yuedong.netlify.app/award/awardlist/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://yuedong.netlify.app/award/awardlist/</guid>
+      <description>&lt;h3 id=&#34;academic-awards&#34;&gt;Academic Awards:&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Received the &lt;span style=&#34;color:red&#34;&gt; Excellent Service &lt;/span&gt; badge in all three cycles of ASPLOS’24 Artifact Evaluation at ACM International Conference on Architectural Support for Programming Languages and Operating Systems, San Diego, 2024 (&lt;a href=&#34;https://yuedong.netlify.app/uploads/AE-Certificate.pdf&#34;&gt;Certificate of Appreciation&lt;/a&gt;).&lt;/li&gt;
+&lt;li&gt;Won &lt;span style=&#34;color:red&#34;&gt; UCR GSA Travel Grant Award &lt;/span&gt; at University of California, Riverside, 2023.&lt;/li&gt;
+&lt;li&gt;Won &lt;span style=&#34;color:red&#34;&gt; Dean’s Distinguished Fellowship Award &lt;/span&gt; at University of California, Riverside, 2019.&lt;/li&gt;
+&lt;li&gt;Ranked &lt;span style=&#34;color:red&#34;&gt; 7th &lt;/span&gt; in terms of total GPA among 83 Computer Engineering students in Sharif University of Technology (&lt;span style=&#34;color:magenta&#34;&gt;Top 8%&lt;/span&gt;), 2018.&lt;/li&gt;
+&lt;li&gt;&lt;span style=&#34;color:red&#34;&gt; 1st Rank&lt;/span&gt;, Achievement of the highest GPA in B.Sc among all Computer Engineering graduated students in Shahed University, 2015.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;!-- - Admitted as an &lt;span style=&#34;color:red&#34;&gt; Exceptional Talent &lt;/span&gt; at Sharif University of Technology for M.Sc, 2015. --&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Awards</title>
+      <link>https://yuedong.netlify.app/award/awards/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://yuedong.netlify.app/award/awards/</guid>
+      <description>
+
+
+
+
+
+
+
+
+&lt;h3 id=&#34;academic-awards&#34;&gt;Academic Awards:&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Received the &lt;span style=&#34;color:red&#34;&gt; Excellent Service &lt;/span&gt; badge in all three cycles of ASPLOS’24 Artifact Evaluation at ACM International Conference on Architectural Support for Programming Languages and Operating Systems, San Diego, 2024 (&lt;a href=&#34;https://yuedong.netlify.app/uploads/AE-Certificate.pdf&#34;&gt;Certificate of Appreciation&lt;/a&gt;).&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Won &lt;span style=&#34;color:red&#34;&gt; UCR GSA Travel Grant Award &lt;/span&gt; at University of California, Riverside, 2023.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Won &lt;span style=&#34;color:red&#34;&gt; Dean’s Distinguished Fellowship Award &lt;/span&gt; at University of California, Riverside, 2019.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Ranked &lt;span style=&#34;color:red&#34;&gt; 7th &lt;/span&gt; in terms of total GPA among 83 Computer Engineering students in Sharif University of Technology (&lt;span style=&#34;color:magenta&#34;&gt;Top 8%&lt;/span&gt;), 2018.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;span style=&#34;color:red&#34;&gt; 1st Rank&lt;/span&gt;, Achievement of the highest GPA in B.Sc among all Computer Engineering graduated students in Shahed University, 2015.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;!-- - Admitted as an &lt;span style=&#34;color:red&#34;&gt; Exceptional Talent &lt;/span&gt; at Sharif University of Technology for M.Sc, 2015. --&gt;
+
+
+</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,9 @@
+.container {
+    width: 80% !important;
+}
+
+/* Hide the search + Type/Date filters in the publications list */
+.filter-search,
+.pub-filters {
+  display: none !important;
+}

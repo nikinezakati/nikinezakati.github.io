@@ -1,0 +1,17 @@
+@inproceedings{10.1145/3613424.3614260,
+author = {Gao, Chao and Afarin, Mahbod and Rahman, Shafiur and Abu-Ghazaleh, Nael and Gupta, Rajiv},
+title = {MEGA Evolving Graph Accelerator},
+year = {2023},
+isbn = {9798400703294},
+publisher = {Association for Computing Machinery},
+address = {New York, NY, USA},
+url = {https://doi.org/10.1145/3613424.3614260},
+doi = {10.1145/3613424.3614260},
+abstract = {Graph Processing is an emerging workload for applications working with unstructured data, such as social network analysis, transportation networks, bioinformatics and operations research. We examine the problem of graph analytics over evolving graphs, which are graphs that change over time. The problem is challenging because it requires evaluation of a graph query on a sequence of graph snapshots over a time window, typically to track the progression of a property over time. In this paper, we introduce MEGA, a hardware accelerator designed for efficiently evaluating queries over evolving graphs. MEGA leverages CommonGraph, a recently proposed software approach for incrementally processing evolving graphs that gains efficiency by avoiding the need to process expensive deletions by converting them into additions. MEGA supports incremental event-based streaming of edge additions as well as execution of multiple snapshots concurrently to support evolving graphs. We propose Batch-Oriented-Execution (BOE), a novel batch-update scheduling technique that activates snapshots that share batches simultaneously to achieve both computation and data reuse. We introduce optimizations that pack compatible batches together, and pipeline batch processing. To the best of our knowledge, MEGA is the first graph accelerator for evolving graphs that evaluates graph queries over multiple snapshots simultaneously. MEGA achieves 24 \texttimes{} -120 \texttimes{} speedup over CommonGraph. It also achieves speedups ranging from 4.08 \texttimes{} to 5.98 \texttimes{} over JetStream, a state-of-the-art streaming graph accelerator.},
+booktitle = {Proceedings of the 56th Annual IEEE/ACM International Symposium on Microarchitecture},
+pages = {310–323},
+numpages = {14},
+keywords = {batch oriented execution, common graph, evolving graphs, iterative graph algorithms, redundancy removal, temporal locality},
+location = {Toronto, ON, Canada},
+series = {MICRO '23}
+}

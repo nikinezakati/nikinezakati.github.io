@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Publication_types | Mahbod Afarin</title>
+    <link>https://yuedong.netlify.app/publication_types/</link>
+      <atom:link href="https://yuedong.netlify.app/publication_types/index.xml" rel="self" type="application/rss+xml" />
+    <description>Publication_types</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 18 Apr 2024 23:57:59 +0000</lastBuildDate>
+    <image>
+      <url>https://yuedong.netlify.app/media/icon_hude6647c33698b0c9461fcaf8acec85e5_276622_512x512_fill_lanczos_center_3.png</url>
+      <title>Publication_types</title>
+      <link>https://yuedong.netlify.app/publication_types/</link>
+    </image>
+    
+  </channel>
+</rss>

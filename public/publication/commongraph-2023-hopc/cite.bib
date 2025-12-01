@@ -1,0 +1,17 @@
+@inproceedings{10.1145/3597635.3598022,
+author = {Afarin, Mahbod and Gao, Chao and Rahman, Shafiur and Abu-Ghazaleh, Nael and Gupta, Rajiv},
+title = {CommonGraph: Graph Analytics on Evolving Data (Abstract)},
+year = {2023},
+isbn = {9798400702181},
+publisher = {Association for Computing Machinery},
+address = {New York, NY, USA},
+url = {https://doi.org/10.1145/3597635.3598022},
+doi = {10.1145/3597635.3598022},
+abstract = {We consider the problem of graph analytics on evolving graphs. In this scenario, a query typically needs to be applied to different snapshots of the graph over an extended time window. We propose CommonGraph, an approach for efficient processing of queries on evolving graphs. We first observe that edge deletions are significantly more expensive than addition operations. CommonGraph converts all deletions to additions by finding a common graph that exists across all snapshots. After computing the query on this graph, to reach any snapshot, we simply need to add the missing edges and incrementally update the query results. CommonGraph also allows sharing of common additions among snapshots that require them, and breaks the sequential dependency inherent in the traditional streaming approach where snapshots are processed in sequence, enabling additional opportunities for parallelism. We incorporate the CommonGraph approach by extending the KickStarter streaming framework. CommonGraph achieves 1.38x-8.17x improvement in performance over Kickstarter across multiple benchmarks.},
+booktitle = {Proceedings of the 2023 ACM Workshop on Highlights of Parallel Computing},
+pages = {1–2},
+numpages = {2},
+keywords = {work sharing, iterative graph algorithms, evolving graphs},
+location = {Orlando, FL, USA},
+series = {HOPC '23}
+}

@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Services | Mahbod Afarin</title>
+    <link>https://yuedong.netlify.app/service/</link>
+      <atom:link href="https://yuedong.netlify.app/service/index.xml" rel="self" type="application/rss+xml" />
+    <description>Services</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language>
+    <image>
+      <url>https://yuedong.netlify.app/media/icon_hude6647c33698b0c9461fcaf8acec85e5_276622_512x512_fill_lanczos_center_3.png</url>
+      <title>Services</title>
+      <link>https://yuedong.netlify.app/service/</link>
+    </image>
+    
+    <item>
+      <title></title>
+      <link>https://yuedong.netlify.app/service/servicelist/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://yuedong.netlify.app/service/servicelist/</guid>
+      <description>&lt;h3 id=&#34;artifact-evaluation-committee&#34;&gt;Artifact Evaluation Committee&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;International Conference on Architectural Support for Programming Languages and Operating Systems (&lt;a href=&#34;https://www.asplos-conference.org/asplos2025/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;ASPLOS&#39;25&lt;/a&gt;).&lt;/li&gt;
+&lt;li&gt;International Conference on Architectural Support for Programming Languages and Operating Systems (&lt;a href=&#34;https://www.asplos-conference.org/asplos2024/committees/index.html#organizing-committee&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;ASPLOS&#39;24&lt;/a&gt;).&lt;/li&gt;
+&lt;li&gt;International Symposium on Computer Architecture (&lt;a href=&#34;https://iscaconf.org/isca2024/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;ISCA&#39;24&lt;/a&gt;).&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;professional-services&#34;&gt;Professional Services&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Audio/Video Chair of the &lt;a href=&#34;https://www.asplos-conference.org/asplos2024/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;ASPLOS’24&lt;/a&gt; Conference.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;!-- ### Reviewer
+- Conferences: CGO’25, MICRO’25, ISPASS’24, PPOPP’24, MICRO’23, ICDCS’23, ACM ICS’23, ISPASS’23, ICDCS’22, ISPASS’22, CGO’20, MICRO’20, PACT’20.
+- Journals: CAL’23, TACO’23, IEEE Transaction on Computers’23, Parallel Computing’23.
+ --&gt;</description>
+    </item>
+    
+    <item>
+      <title>Services</title>
+      <link>https://yuedong.netlify.app/service/services/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://yuedong.netlify.app/service/services/</guid>
+      <description>
+
+
+
+
+
+
+
+
+&lt;h3 id=&#34;artifact-evaluation-committee&#34;&gt;Artifact Evaluation Committee&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;International Conference on Architectural Support for Programming Languages and Operating Systems (&lt;a href=&#34;https://www.asplos-conference.org/asplos2025/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;ASPLOS&#39;25&lt;/a&gt;).&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;International Conference on Architectural Support for Programming Languages and Operating Systems (&lt;a href=&#34;https://www.asplos-conference.org/asplos2024/committees/index.html#organizing-committee&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;ASPLOS&#39;24&lt;/a&gt;).&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;International Symposium on Computer Architecture (&lt;a href=&#34;https://iscaconf.org/isca2024/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;ISCA&#39;24&lt;/a&gt;).&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;professional-services&#34;&gt;Professional Services&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Audio/Video Chair of the &lt;a href=&#34;https://www.asplos-conference.org/asplos2024/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;ASPLOS’24&lt;/a&gt; Conference.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;!-- ### Reviewer
+
+- Conferences: CGO’25, MICRO’25, ISPASS’24, PPOPP’24, MICRO’23, ICDCS’23, ACM ICS’23, ISPASS’23, ICDCS’22, ISPASS’22, CGO’20, MICRO’20, PACT’20.
+
+- Journals: CAL’23, TACO’23, IEEE Transaction on Computers’23, Parallel Computing’23.
+
+ --&gt;
+
+</description>
+    </item>
+    
+  </channel>
+</rss>
