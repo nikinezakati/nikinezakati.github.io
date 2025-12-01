@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>1 | Mahbod Afarin</title>
+    <link>https://yuedong.netlify.app/publication-type/1/</link>
+      <atom:link href="https://yuedong.netlify.app/publication-type/1/index.xml" rel="self" type="application/rss+xml" />
+    <description>1</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 18 Apr 2024 23:57:59 +0000</lastBuildDate>
+    <image>
+      <url>https://yuedong.netlify.app/media/icon_hude6647c33698b0c9461fcaf8acec85e5_276622_512x512_fill_lanczos_center_3.png</url>
+      <title>1</title>
+      <link>https://yuedong.netlify.app/publication-type/1/</link>
+    </image>
+    
+    <item>
+      <title> Core Graph: Exploiting Edge Centrality to Speedup the Evaluation of Iterative Graph Queries</title>
+      <link>https://yuedong.netlify.app/publication/coregraph-2024-eurosys/</link>
+      <pubDate>Thu, 18 Apr 2024 23:57:59 +0000</pubDate>
+      <guid>https://yuedong.netlify.app/publication/coregraph-2024-eurosys/</guid>
+      <description>&lt;style&gt;
+  .justify-text {
+    text-align: justify;
+  }
+&lt;/style&gt;</description>
+    </item>
+    
+    <item>
+      <title> Expressway: Prioritizing Edges for Distributed Evaluation of Graph Queries</title>
+      <link>https://yuedong.netlify.app/publication/expressway-2023-bigdata/</link>
+      <pubDate>Mon, 18 Dec 2023 23:57:59 +0000</pubDate>
+      <guid>https://yuedong.netlify.app/publication/expressway-2023-bigdata/</guid>
+      <description>&lt;style&gt;
+  .justify-text {
+    text-align: justify;
+  }
+&lt;/style&gt;</description>
+    </item>
+    
+    <item>
+      <title>MEGA Evolving Graph Accelerator</title>
+      <link>https://yuedong.netlify.app/publication/mega-2023-micro/</link>
+      <pubDate>Fri, 08 Dec 2023 00:00:00 +0000</pubDate>
+      <guid>https://yuedong.netlify.app/publication/mega-2023-micro/</guid>
+      <description>&lt;style&gt;
+  .justify-text {
+    text-align: justify;
+  }
+&lt;/style&gt;</description>
+    </item>
+    
+    <item>
+      <title> CommonGraph: Graph Analytics on Evolving Data (Abstract)</title>
+      <link>https://yuedong.netlify.app/publication/commongraph-2023-hopc/</link>
+      <pubDate>Tue, 18 Jul 2023 00:00:00 +0000</pubDate>
+      <guid>https://yuedong.netlify.app/publication/commongraph-2023-hopc/</guid>
+      <description>&lt;style&gt;
+  .justify-text {
+    text-align: justify;
+  }
+&lt;/style&gt;</description>
+    </item>
+    
+    <item>
+      <title> CommonGraph: Graph Analytics on Evolving Data</title>
+      <link>https://yuedong.netlify.app/publication/commongraph-2023-asplos/</link>
+      <pubDate>Wed, 18 Jan 2023 23:57:59 +0000</pubDate>
+      <guid>https://yuedong.netlify.app/publication/commongraph-2023-asplos/</guid>
+      <description>&lt;style&gt;
+  .justify-text {
+    text-align: justify;
+  }
+&lt;/style&gt;</description>
+    </item>
+    
+    <item>
+      <title> JetStream: Graph Analytics on Streaming Data with Event-Driven Hardware Accelerator</title>
+      <link>https://yuedong.netlify.app/publication/jetstream-2021-micro/</link>
+      <pubDate>Sun, 17 Oct 2021 00:00:00 +0000</pubDate>
+      <guid>https://yuedong.netlify.app/publication/jetstream-2021-micro/</guid>
+      <description>&lt;style&gt;
+  .justify-text {
+    text-align: justify;
+  }
+&lt;/style&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

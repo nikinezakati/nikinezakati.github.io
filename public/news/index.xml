@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>News | Mahbod Afarin</title>
+    <link>https://yuedong.netlify.app/news/</link>
+      <atom:link href="https://yuedong.netlify.app/news/index.xml" rel="self" type="application/rss+xml" />
+    <description>News</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 01 Dec 2017 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://yuedong.netlify.app/media/icon_hude6647c33698b0c9461fcaf8acec85e5_276622_512x512_fill_lanczos_center_3.png</url>
+      <title>News</title>
+      <link>https://yuedong.netlify.app/news/</link>
+    </image>
+    
+    <item>
+      <title>News</title>
+      <link>https://yuedong.netlify.app/news/news/</link>
+      <pubDate>Fri, 01 Dec 2017 00:00:00 +0000</pubDate>
+      <guid>https://yuedong.netlify.app/news/news/</guid>
+      <description>
+
+
+
+
+
+
+
+
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;[6/2024] I successfully defended my &lt;strong&gt;PhD Dissertation Proposal&lt;/strong&gt;.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;[5/2024] I received a &lt;a href=&#34;https://yuedong.netlify.app/uploads/AE-Certificate.pdf&#34;&gt;certificate of appreciation&lt;/a&gt; for &lt;strong&gt;Excellent Service&lt;/strong&gt; in all three cycles of ASPLOS’24 Artifact Evaluation.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;[1/2024] I will serve in the &lt;strong&gt;Artifact Evaluation Committee&lt;/strong&gt; for &lt;a href=&#34;https://www.asplos-conference.org/asplos2024/cfp/#committees&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;ASPLOS’24&lt;/a&gt; and &lt;a href=&#34;https://www.iscaconf.org/isca2024/submit/papers.php&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;ISCA’24&lt;/a&gt;.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;[12/2023] Our paper, &lt;strong&gt;&amp;ldquo;Expressway: Prioritizing Edges for Distributed Evaluation of Graph Queries&amp;rdquo;&lt;/strong&gt; has been accepted for presentation in 2023 IEEE International Conference on Big Data (&lt;a href=&#34;https://bigdataieee.org/BigData2023/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;BigData&#39;23&lt;/a&gt;), Sorrento, Italy.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;[8/2023] Our paper, &lt;strong&gt;&amp;ldquo;Core Graph: Exploiting Edge Centrality to Speedup the Evaluation of Iterative Graph Queries&amp;rdquo;&lt;/strong&gt; has been accepted for presentation in Proceedings of the Nineteen European Conference on Computer Systems (&lt;a href=&#34;https://2024.eurosys.org/cfp.html#pagetop&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;EuroSys&#39;24&lt;/a&gt;), Athens, Greece.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;[7/2023] Our paper, &lt;strong&gt;&amp;ldquo;MEGA Evolving Graph Accelerator&amp;rdquo;&lt;/strong&gt; has been accepted for presentation in 56th IEEE/ACM International Symposium on Microarchitecture (&lt;a href=&#34;https://microarch.org/micro56/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;MICRO&#39;23&lt;/a&gt;), Toronto, Canada.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;[6/2023] Received &lt;strong&gt;Conference Travel Grants&lt;/strong&gt; from &lt;a href=&#34;https://gsa.ucr.edu/ctg/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;UCR GSA&lt;/a&gt;. See you in Orlando!&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;[5/2023] Our paper, &lt;strong&gt;&amp;ldquo;CommonGraph: Graph Analytics on Evolving Data (Abstract)&amp;rdquo;&lt;/strong&gt; has been accepted for presentation in the Highlights of Parallel Computing (&lt;a href=&#34;https://ucrparlay.github.io/hopc23/#organization&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;HOPC&#39;23&lt;/a&gt;), Orlando, Florida.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;[9/2022] Our paper, &lt;strong&gt;&amp;ldquo;CommonGraph: Graph Analytics on Evolving Data&amp;rdquo;&lt;/strong&gt; has been accepted for presentation in 28th ACM International Conference on Architectural Support for Programming Languages and Operating Systems (&lt;a href=&#34;https://asplos-conference.org/asplos2023/index.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;ASPLOS&#39;23&lt;/a&gt;), Vancouver, Canada.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;[10/2021] I successfully defended my &lt;strong&gt;Oral Qualifying Exam&lt;/strong&gt;. Ph.D. candidate now!&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;[7/2021] Our paper, &lt;strong&gt;&amp;ldquo;JetStream: Graph Analytics on Streaming Data with Event-Driven Hardware Accelerator&amp;rdquo;&lt;/strong&gt; has been accepted for presentation in 54th IEEE/ACM International Symposium on Microarchitecture (&lt;a href=&#34;https://www.microarch.org/micro54/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;MICRO&#39;21&lt;/a&gt;), Athens, Greece.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+
+
+</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://yuedong.netlify.app/news/newslist/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://yuedong.netlify.app/news/newslist/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;[6/2024] I successfully defended my &lt;strong&gt;PhD Dissertation Proposal&lt;/strong&gt;.&lt;/li&gt;
+&lt;li&gt;[5/2024] I received a &lt;a href=&#34;https://yuedong.netlify.app/uploads/AE-Certificate.pdf&#34;&gt;certificate of appreciation&lt;/a&gt; for &lt;strong&gt;Excellent Service&lt;/strong&gt; in all three cycles of ASPLOS’24 Artifact Evaluation.&lt;/li&gt;
+&lt;li&gt;[1/2024] I will serve in the &lt;strong&gt;Artifact Evaluation Committee&lt;/strong&gt; for &lt;a href=&#34;https://www.asplos-conference.org/asplos2024/cfp/#committees&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;ASPLOS’24&lt;/a&gt; and &lt;a href=&#34;https://www.iscaconf.org/isca2024/submit/papers.php&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;ISCA’24&lt;/a&gt;.&lt;/li&gt;
+&lt;li&gt;[12/2023] Our paper, &lt;strong&gt;&amp;ldquo;Expressway: Prioritizing Edges for Distributed Evaluation of Graph Queries&amp;rdquo;&lt;/strong&gt; has been accepted for presentation in 2023 IEEE International Conference on Big Data (&lt;a href=&#34;https://bigdataieee.org/BigData2023/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;BigData&#39;23&lt;/a&gt;), Sorrento, Italy.&lt;/li&gt;
+&lt;li&gt;[8/2023] Our paper, &lt;strong&gt;&amp;ldquo;Core Graph: Exploiting Edge Centrality to Speedup the Evaluation of Iterative Graph Queries&amp;rdquo;&lt;/strong&gt; has been accepted for presentation in Proceedings of the Nineteen European Conference on Computer Systems (&lt;a href=&#34;https://2024.eurosys.org/cfp.html#pagetop&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;EuroSys&#39;24&lt;/a&gt;), Athens, Greece.&lt;/li&gt;
+&lt;li&gt;[7/2023] Our paper, &lt;strong&gt;&amp;ldquo;MEGA Evolving Graph Accelerator&amp;rdquo;&lt;/strong&gt; has been accepted for presentation in 56th IEEE/ACM International Symposium on Microarchitecture (&lt;a href=&#34;https://microarch.org/micro56/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;MICRO&#39;23&lt;/a&gt;), Toronto, Canada.&lt;/li&gt;
+&lt;li&gt;[6/2023] Received &lt;strong&gt;Conference Travel Grants&lt;/strong&gt; from &lt;a href=&#34;https://gsa.ucr.edu/ctg/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;UCR GSA&lt;/a&gt;. See you in Orlando!&lt;/li&gt;
+&lt;li&gt;[5/2023] Our paper, &lt;strong&gt;&amp;ldquo;CommonGraph: Graph Analytics on Evolving Data (Abstract)&amp;rdquo;&lt;/strong&gt; has been accepted for presentation in the Highlights of Parallel Computing (&lt;a href=&#34;https://ucrparlay.github.io/hopc23/#organization&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;HOPC&#39;23&lt;/a&gt;), Orlando, Florida.&lt;/li&gt;
+&lt;li&gt;[9/2022] Our paper, &lt;strong&gt;&amp;ldquo;CommonGraph: Graph Analytics on Evolving Data&amp;rdquo;&lt;/strong&gt; has been accepted for presentation in 28th ACM International Conference on Architectural Support for Programming Languages and Operating Systems (&lt;a href=&#34;https://asplos-conference.org/asplos2023/index.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;ASPLOS&#39;23&lt;/a&gt;), Vancouver, Canada.&lt;/li&gt;
+&lt;li&gt;[10/2021] I successfully defended my &lt;strong&gt;Oral Qualifying Exam&lt;/strong&gt;. Ph.D. candidate now!&lt;/li&gt;
+&lt;li&gt;[7/2021] Our paper, &lt;strong&gt;&amp;ldquo;JetStream: Graph Analytics on Streaming Data with Event-Driven Hardware Accelerator&amp;rdquo;&lt;/strong&gt; has been accepted for presentation in 54th IEEE/ACM International Symposium on Microarchitecture (&lt;a href=&#34;https://www.microarch.org/micro54/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;MICRO&#39;21&lt;/a&gt;), Athens, Greece.&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Teachings | Mahbod Afarin</title>
+    <link>https://yuedong.netlify.app/teaching/</link>
+      <atom:link href="https://yuedong.netlify.app/teaching/index.xml" rel="self" type="application/rss+xml" />
+    <description>Teachings</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language>
+    <image>
+      <url>https://yuedong.netlify.app/media/icon_hude6647c33698b0c9461fcaf8acec85e5_276622_512x512_fill_lanczos_center_3.png</url>
+      <title>Teachings</title>
+      <link>https://yuedong.netlify.app/teaching/</link>
+    </image>
+    
+    <item>
+      <title></title>
+      <link>https://yuedong.netlify.app/teaching/teachinglist/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://yuedong.netlify.app/teaching/teachinglist/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;[Summer 2023] TA - [Compiler Design], UC Riverside.&lt;/li&gt;
+&lt;li&gt;[Summer 2022] TA - [Compiler Design], UC Riverside.&lt;/li&gt;
+&lt;li&gt;[Spring 2022] TA - [Compiler Design], UC Riverside.&lt;/li&gt;
+&lt;li&gt;[Summer 2021] TA - &lt;a href=&#34;https://www.cs.ucr.edu/~mafar001/compiler/index1.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Compiler Design&lt;/a&gt;, UC Riverside.&lt;/li&gt;
+&lt;li&gt;[Spring 2021] TA - [Compiler Design], UC Riverside.&lt;/li&gt;
+&lt;li&gt;[Spring 2018] TA - [System on Chip], Sharif University of Technology.&lt;/li&gt;
+&lt;li&gt;[Fall 2017] TA - [Testability], Sharif University of Technology.&lt;/li&gt;
+&lt;li&gt;[Summer 2017] TA - [Logic Design Lab], Sharif University of Technology.&lt;/li&gt;
+&lt;li&gt;[Spring 2017] TA - [Advanced VLSI], Sharif University of Technology.&lt;/li&gt;
+&lt;li&gt;[Fall 2017] TA - [VLSI Design], Sharif University of Technology.&lt;/li&gt;
+&lt;li&gt;[Summer 2016] TA - [Digital System Design Lab], Sharif University.&lt;/li&gt;
+&lt;li&gt;[Fall 2019] TA - [VLSI Design], Shahed University.&lt;/li&gt;
+&lt;li&gt;[Fall 2019] TA - [Computer Architecture], Shahed University.&lt;/li&gt;
+&lt;li&gt;[Spring 2019] TA - [Digital Electronic], Shahed University.&lt;/li&gt;
+&lt;li&gt;[Spring 2019] TA - [Computer Architecture], Shahed University.&lt;/li&gt;
+&lt;li&gt;[Spring 2019] TA - [Logic Design Lab], Shahed University.&lt;/li&gt;
+&lt;li&gt;[Spring 2019] TA - [Digital System Design Lab], Shahed University.&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Teachings</title>
+      <link>https://yuedong.netlify.app/teaching/teachings/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://yuedong.netlify.app/teaching/teachings/</guid>
+      <description>
+
+
+
+
+
+
+
+
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;[Summer 2023] TA - [Compiler Design], UC Riverside.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;[Summer 2022] TA - [Compiler Design], UC Riverside.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;[Spring 2022] TA - [Compiler Design], UC Riverside.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;[Summer 2021] TA - &lt;a href=&#34;https://www.cs.ucr.edu/~mafar001/compiler/index1.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Compiler Design&lt;/a&gt;, UC Riverside.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;[Spring 2021] TA - [Compiler Design], UC Riverside.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;[Spring 2018] TA - [System on Chip], Sharif University of Technology.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;[Fall 2017] TA - [Testability], Sharif University of Technology.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;[Summer 2017] TA - [Logic Design Lab], Sharif University of Technology.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;[Spring 2017] TA - [Advanced VLSI], Sharif University of Technology.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;[Fall 2017] TA - [VLSI Design], Sharif University of Technology.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;[Summer 2016] TA - [Digital System Design Lab], Sharif University.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;[Fall 2019] TA - [VLSI Design], Shahed University.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;[Fall 2019] TA - [Computer Architecture], Shahed University.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;[Spring 2019] TA - [Digital Electronic], Shahed University.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;[Spring 2019] TA - [Computer Architecture], Shahed University.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;[Spring 2019] TA - [Logic Design Lab], Shahed University.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;[Spring 2019] TA - [Digital System Design Lab], Shahed University.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+
+
+</description>
+    </item>
+    
+  </channel>
+</rss>

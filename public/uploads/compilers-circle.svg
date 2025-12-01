@@ -1,0 +1,40 @@
+<svg width="600" height="600" viewBox="0 0 600 600" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="compilersTitle compilersDesc">
+  <title id="compilersTitle">Compilers Research Artwork</title>
+  <desc id="compilersDesc">Stylized gradient circle with layered code brackets and flow arrows symbolizing compiler pipelines.</desc>
+  <defs>
+    <radialGradient id="compilerGradient" cx="50%" cy="40%" r="70%">
+      <stop offset="0%" stop-color="#f0f8ff"/>
+      <stop offset="60%" stop-color="#5bc0eb"/>
+      <stop offset="100%" stop-color="#1d4d80"/>
+    </radialGradient>
+    <linearGradient id="compilerAccent" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#f9f871"/>
+      <stop offset="100%" stop-color="#ff8c42"/>
+    </linearGradient>
+    <linearGradient id="compilerLines" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#ffffff" stop-opacity="0.9"/>
+      <stop offset="100%" stop-color="#d8eefe" stop-opacity="0.5"/>
+    </linearGradient>
+  </defs>
+  <circle cx="300" cy="300" r="285" fill="url(#compilerGradient)"/>
+  <circle cx="300" cy="300" r="255" fill="none" stroke="rgba(255,255,255,0.25)" stroke-width="6" stroke-dasharray="12 18"/>
+  <g stroke="url(#compilerLines)" stroke-width="4" stroke-linecap="round" opacity="0.6">
+    <path d="M120 220 L480 220"/>
+    <path d="M140 280 L460 280"/>
+    <path d="M160 340 L440 340"/>
+    <path d="M180 400 L420 400"/>
+  </g>
+  <g fill="none" stroke="url(#compilerAccent)" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M210 190 C150 250 150 350 210 410"/>
+    <path d="M390 190 C450 250 450 350 390 410"/>
+  </g>
+  <g fill="none" stroke="#ffffff" stroke-width="10" stroke-linecap="round">
+    <path d="M250 260 L350 260 L330 220"/>
+    <path d="M350 340 L250 340 L270 380"/>
+  </g>
+  <g fill="#ffffff" opacity="0.9">
+    <circle cx="300" cy="180" r="12"/>
+    <circle cx="360" cy="420" r="10"/>
+    <circle cx="240" cy="420" r="10"/>
+  </g>
+</svg>

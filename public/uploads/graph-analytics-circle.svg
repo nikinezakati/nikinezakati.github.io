@@ -1,0 +1,42 @@
+<svg width="600" height="600" viewBox="0 0 600 600" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="graphTitle graphDesc">
+  <title id="graphTitle">Graph Analytics Artwork</title>
+  <desc id="graphDesc">Gradient circle featuring interconnected nodes and waveforms to represent graph analytics.</desc>
+  <defs>
+    <radialGradient id="graphGradient" cx="50%" cy="45%" r="70%">
+      <stop offset="0%" stop-color="#fffbf0"/>
+      <stop offset="60%" stop-color="#ffb347"/>
+      <stop offset="100%" stop-color="#b23a48"/>
+    </radialGradient>
+    <linearGradient id="graphLinks" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#ffffff" stop-opacity="0.9"/>
+      <stop offset="100%" stop-color="#ffe3c8" stop-opacity="0.6"/>
+    </linearGradient>
+    <linearGradient id="graphWave" x1="0%" y1="50%" x2="100%" y2="50%">
+      <stop offset="0%" stop-color="#48c6ef"/>
+      <stop offset="100%" stop-color="#6f86d6"/>
+    </linearGradient>
+  </defs>
+  <circle cx="300" cy="300" r="285" fill="url(#graphGradient)"/>
+  <path d="M80 320 C140 180 280 190 340 320 C400 450 520 440 560 300" fill="none" stroke="url(#graphWave)" stroke-width="18" stroke-linecap="round" stroke-opacity="0.8"/>
+  <g stroke="url(#graphLinks)" stroke-width="8" stroke-linecap="round">
+    <line x1="180" y1="180" x2="420" y2="180"/>
+    <line x1="420" y1="180" x2="460" y2="340"/>
+    <line x1="460" y1="340" x2="260" y2="420"/>
+    <line x1="260" y1="420" x2="160" y2="260"/>
+    <line x1="160" y1="260" x2="180" y2="180"/>
+    <line x1="180" y1="180" x2="460" y2="340"/>
+    <line x1="420" y1="180" x2="260" y2="420"/>
+  </g>
+  <g fill="#ffffff" stroke="#b23a48" stroke-width="6">
+    <circle cx="180" cy="180" r="22"/>
+    <circle cx="420" cy="180" r="22"/>
+    <circle cx="460" cy="340" r="22"/>
+    <circle cx="260" cy="420" r="22"/>
+    <circle cx="160" cy="260" r="22"/>
+  </g>
+  <g fill="#ffffff" opacity="0.75">
+    <circle cx="300" cy="120" r="10"/>
+    <circle cx="120" cy="360" r="8"/>
+    <circle cx="500" cy="420" r="12"/>
+  </g>
+</svg>

@@ -1,0 +1,237 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Talks | Mahbod Afarin</title>
+    <link>https://yuedong.netlify.app/talk/</link>
+      <atom:link href="https://yuedong.netlify.app/talk/index.xml" rel="self" type="application/rss+xml" />
+    <description>Talks</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language>
+    <image>
+      <url>https://yuedong.netlify.app/media/icon_hude6647c33698b0c9461fcaf8acec85e5_276622_512x512_fill_lanczos_center_3.png</url>
+      <title>Talks</title>
+      <link>https://yuedong.netlify.app/talk/</link>
+    </image>
+    
+    <item>
+      <title></title>
+      <link>https://yuedong.netlify.app/talk/talklist/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://yuedong.netlify.app/talk/talklist/</guid>
+      <description>&lt;h2 id=&#34;invited-talks&#34;&gt;Invited talks&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;[11/2023] &lt;strong&gt;Exploring Safety in Large Language Models &lt;a href=&#34;https://www.youtube.com/watch?v=5OUuRbnEUsc&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;em&gt;YouTube&lt;/em&gt; 40:30 mins&lt;/a&gt; | &lt;a href=&#34;https://alumni.xjtu.edu.cn/info/1137/7465.htm&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;News&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;em&gt;80th Annual Convention of Jiaotong University Alumni Association in SoCal (交通大学南加州校友会80周年庆)&lt;/em&gt;, Los Angeles, CA, US&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;[11/04/2023] &lt;strong&gt;AI and Large Language Models&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;em&gt;UCR Family Day/Homecoming seminar&lt;/em&gt;, Riverside CA, US&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;[08/2023] &lt;strong&gt;Fast Text Generation with Text-Editing Models&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;em&gt;KDD Tutorial&lt;/em&gt;, Long Beach, CA, US&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;[08/2023] &lt;strong&gt;Safeguarding the Potential in Large Language Models&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;em&gt;KDD SoCal Day&lt;/em&gt;, Long Beach, CA, US&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;[08/2023] &lt;strong&gt;Large Language Models &amp;amp; AI Unleashed&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;em&gt;UCR REU&lt;/em&gt;, Riverside, CA, US&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;[07/2023] &lt;strong&gt;Introduction to Large Language Models&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;em&gt;Redlands &amp;amp; UCR Higher School AI Academy&lt;/em&gt;, Riverside, CA, US&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;[05/18/2023] &lt;strong&gt;What Future Do We Want with Artificial Intelligence?&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.tedxucr.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;em&gt;TEDx UCR&lt;/em&gt;&lt;/a&gt; | &lt;a href=&#34;https://www.youtube.com/watch?v=w5fmMcrwk_I&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;em&gt;YouTube&lt;/em&gt;&lt;/a&gt;, Riverside, CA, US&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;[2021] &lt;strong&gt;Robust and Trustworthy NLP Through The Lens of Text Summarization&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;University of California, Riverside, March 2021, Riverside, CA, US&lt;/li&gt;
+&lt;li&gt;National University of Singapore, March 2021, Singapore&lt;/li&gt;
+&lt;li&gt;Google AI, March 2021, US&lt;/li&gt;
+&lt;li&gt;University of Waterloo, February 2021, Waterloo, Canada&lt;/li&gt;
+&lt;li&gt;University of Utah, February 2021, Salt Lake City, UT, US&lt;/li&gt;
+&lt;li&gt;Simon Fraser University, February 2021, Burnaby, Canada&lt;/li&gt;
+&lt;li&gt;HEC Montreal &amp;amp; Mila, February 2021, Montreal, Canada&lt;/li&gt;
+&lt;li&gt;Queen&amp;rsquo;s University, January 2021, Kingston, Canada&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;panelists&#34;&gt;Panelists&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;[10/2023] &lt;strong&gt;&lt;a href=&#34;https://events.ucr.edu/event/impact_of_generative_ai&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Impact of Generative AI&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;em&gt;UCR BCOE Council of Advisors meeting,&lt;/em&gt; &lt;a href=&#34;https://twitter.com/UCRBCOE/status/1712966536221413883&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Tweet&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;[09/2023] &lt;strong&gt;&lt;a href=&#34;https://www.niss.org/events/academic-perspectives-chatgpt&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Academic Perspectives on ChatGPT&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;em&gt;National Institute of Statistical Sciences (NISS) Webinar&lt;/em&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;[09/2023] &lt;strong&gt;&lt;a href=&#34;https://brand.ucr.edu/conference-2023#11-1145-am-morning-sessions&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Panel: Artificial Intelligence (AI) in Higher Education&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;em&gt;UCR Marketing &amp;amp; Communications Conference 2023&lt;/em&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;[06/2023] &lt;strong&gt;Biasly - AI to detect and correct misogynistic language&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;em&gt;AI4Good Lab&lt;/em&gt;, Montreal, Canada (remote)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;media-interviews&#34;&gt;Media Interviews&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;[10/2023] &lt;strong&gt;&lt;a href=&#34;https://news.ucr.edu/articles/2023/10/03/faculty-members-discuss-ais-possible-impacts-ucr?utm_source=UC&amp;#43;Riverside&amp;#43;Master&amp;#43;List&amp;amp;utm_campaign=b890962bb7-EMAIL_CAMPAIGN_2023_10_26_05_26&amp;amp;utm_medium=email&amp;amp;utm_term=0_-b890962bb7-%5BLIST_EMAIL_ID%5D&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Faculty members discuss AI’s possible impacts at UCR - UCR News&lt;/a&gt;&lt;/strong&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Talks</title>
+      <link>https://yuedong.netlify.app/talk/talks/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://yuedong.netlify.app/talk/talks/</guid>
+      <description>
+
+
+
+
+
+
+
+
+&lt;h2 id=&#34;invited-talks&#34;&gt;Invited talks&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;[11/2023] &lt;strong&gt;Exploring Safety in Large Language Models &lt;a href=&#34;https://www.youtube.com/watch?v=5OUuRbnEUsc&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;em&gt;YouTube&lt;/em&gt; 40:30 mins&lt;/a&gt; | &lt;a href=&#34;https://alumni.xjtu.edu.cn/info/1137/7465.htm&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;News&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;em&gt;80th Annual Convention of Jiaotong University Alumni Association in SoCal (交通大学南加州校友会80周年庆)&lt;/em&gt;, Los Angeles, CA, US&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;[11/04/2023] &lt;strong&gt;AI and Large Language Models&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;em&gt;UCR Family Day/Homecoming seminar&lt;/em&gt;, Riverside CA, US&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;[08/2023] &lt;strong&gt;Fast Text Generation with Text-Editing Models&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;em&gt;KDD Tutorial&lt;/em&gt;, Long Beach, CA, US&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;[08/2023] &lt;strong&gt;Safeguarding the Potential in Large Language Models&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;em&gt;KDD SoCal Day&lt;/em&gt;, Long Beach, CA, US&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;[08/2023] &lt;strong&gt;Large Language Models &amp;amp; AI Unleashed&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;em&gt;UCR REU&lt;/em&gt;, Riverside, CA, US&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;[07/2023] &lt;strong&gt;Introduction to Large Language Models&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;em&gt;Redlands &amp;amp; UCR Higher School AI Academy&lt;/em&gt;, Riverside, CA, US&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;[05/18/2023] &lt;strong&gt;What Future Do We Want with Artificial Intelligence?&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.tedxucr.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;em&gt;TEDx UCR&lt;/em&gt;&lt;/a&gt; | &lt;a href=&#34;https://www.youtube.com/watch?v=w5fmMcrwk_I&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;em&gt;YouTube&lt;/em&gt;&lt;/a&gt;, Riverside, CA, US&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;[2021] &lt;strong&gt;Robust and Trustworthy NLP Through The Lens of Text Summarization&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;University of California, Riverside, March 2021, Riverside, CA, US&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;National University of Singapore, March 2021, Singapore&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Google AI, March 2021, US&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;University of Waterloo, February 2021, Waterloo, Canada&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;University of Utah, February 2021, Salt Lake City, UT, US&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Simon Fraser University, February 2021, Burnaby, Canada&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;HEC Montreal &amp;amp; Mila, February 2021, Montreal, Canada&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Queen&amp;rsquo;s University, January 2021, Kingston, Canada&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;panelists&#34;&gt;Panelists&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;[10/2023] &lt;strong&gt;&lt;a href=&#34;https://events.ucr.edu/event/impact_of_generative_ai&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Impact of Generative AI&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;em&gt;UCR BCOE Council of Advisors meeting,&lt;/em&gt; &lt;a href=&#34;https://twitter.com/UCRBCOE/status/1712966536221413883&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Tweet&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;[09/2023] &lt;strong&gt;&lt;a href=&#34;https://www.niss.org/events/academic-perspectives-chatgpt&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Academic Perspectives on ChatGPT&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;em&gt;National Institute of Statistical Sciences (NISS) Webinar&lt;/em&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;[09/2023] &lt;strong&gt;&lt;a href=&#34;https://brand.ucr.edu/conference-2023#11-1145-am-morning-sessions&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Panel: Artificial Intelligence (AI) in Higher Education&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;em&gt;UCR Marketing &amp;amp; Communications Conference 2023&lt;/em&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;[06/2023] &lt;strong&gt;Biasly - AI to detect and correct misogynistic language&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;em&gt;AI4Good Lab&lt;/em&gt;, Montreal, Canada (remote)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;media-interviews&#34;&gt;Media Interviews&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;[10/2023] &lt;strong&gt;&lt;a href=&#34;https://news.ucr.edu/articles/2023/10/03/faculty-members-discuss-ais-possible-impacts-ucr?utm_source=UC&amp;#43;Riverside&amp;#43;Master&amp;#43;List&amp;amp;utm_campaign=b890962bb7-EMAIL_CAMPAIGN_2023_10_26_05_26&amp;amp;utm_medium=email&amp;amp;utm_term=0_-b890962bb7-%5BLIST_EMAIL_ID%5D&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Faculty members discuss AI’s possible impacts at UCR - UCR News&lt;/a&gt;&lt;/strong&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+
+</description>
+    </item>
+    
+  </channel>
+</rss>
