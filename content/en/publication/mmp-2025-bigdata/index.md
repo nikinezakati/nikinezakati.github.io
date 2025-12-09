@@ -55,9 +55,9 @@ publication: '*Proceedings of the 2025 IEEE International Conference on Big Data
 
 links:
   - name: PDF
-    url: https://arxiv.org/abs/2410.03010
+    url: https://arxiv.org/abs/2410.03010.pdf
   - name: DOI
-    url: https://arxiv.org/pdf/2410.03010.pdf
+    url: https://arxiv.org/pdf/2410.03010
 ---
 <style>
   .justify-text {

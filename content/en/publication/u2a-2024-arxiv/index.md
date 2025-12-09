@@ -49,7 +49,7 @@ links:
 - name: DOI
   url: https://www.arxiv.org/abs/2501.17823v1
 - name: PDF
-  url: https://www.arxiv.org/pdf/2501.17823v1
+  url: https://www.arxiv.org/pdf/2501.17823v1.pdf
 ---
 
 <style>
