@@ -20,7 +20,7 @@ content:
   phone: 
   address:
     street:
-    city: Riverside, CA
+    city: California
     region: USA
     postcode:
     country: USA

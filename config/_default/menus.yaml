@@ -7,21 +7,24 @@ main:
   - name: Home
     url: '#about'
     weight: 10
+  - name: News
+    url: 'news/newslist'
+    weight: 20
   - name: Publications
     url: '/publication'
-    weight: 20
+    weight: 30
   - name: Research
     url: '/research/researchlist'
-    weight: 30
+    weight: 40
   - name: Awards
     url: '/award/awardlist'
-    weight: 40
+    weight: 50
   - name: Teachings
     url: '/teaching/teachinglist'
-    weight: 50
+    weight: 60
   - name: Projects
     url: '/projects/projectslist'
-    weight: 60
+    weight: 70
 
 
 # Link to a PDF of your resume/CV from the menu.

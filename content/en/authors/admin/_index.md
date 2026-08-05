@@ -1,6 +1,6 @@
 ---
 title: Niki Nezakati
-role: CS PhD Student
+role: CS PhD Candidate
   
 # Short bio (displayed in user profile at end of posts)
 bio:
@@ -48,16 +48,18 @@ education:
 superuser: true
 status:
   icon: ☕️
-last_name: Afarin
+last_name: Nezakati
 highlight_name: true
-first_name: Mahbod
+first_name: Niki
 email: ""
 ---
 
 <div style="text-align: justify;">
 
 
-Hi, I'm Niki. I'm a Computer Science PhD student at the University of California, Riverside, working at the [Vision and Learning Group](https://vcg.ece.ucr.edu/) and the CODE Lab under the supervision of Professor [Amit K. Roy-Chowdhury](https://vcg.ece.ucr.edu/amit) and Professor [Vishwanath Saragadam](https://vishwa91.github.io/). I received my B.Sc. in Computer Engineering at Iran University of Science and Technology, where I was admitted with a top 0.07% rank (293 out of 400,000+) in Iran’s National University Entrance Exam. 
+Hi, I'm Niki, a Computer Science PhD Candidate at the University of California, Riverside, where I work in the [Vision and Learning Group](https://vcg.ece.ucr.edu/) and CODE Lab, advised by Professors [Amit K. Roy-Chowdhury](https://vcg.ece.ucr.edu/amit) and [Vishwanath Saragadam](https://vishwa91.github.io/). I'm currently a Machine Learning Research Intern at <span style="color: #d76bc3;">Apple </span> in Cupertino, CA.
+
+Before UCR, I completed my B.Sc. in Computer Engineering at Iran University of Science and Technology, where I was admitted with a top 0.07% rank (293 out of 400,000+ participants) in Iran's National University Entrance Exam.
 
 My research interests span computer vision, image processing, NLP, and robust machine learning, with a general focus on making AI systems more reliable in real-world settings. During my Ph.D., I have worked on improving the stability and quality of image restoration methods based on diffusion models, and I have explored how multimodal learning systems behave when some inputs are missing or unreliable. I also have experience with 3D reconstruction and neural rendering, including camera pose estimation and modern radiance-field methods. I’m motivated by problems at the intersection of visual understanding, generative modeling, and trustworthy AI. Beyond my research, I enjoy playing the piano and reading novels!
 

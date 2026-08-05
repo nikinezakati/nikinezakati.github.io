@@ -1,18 +1,18 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: 'CARD: Correlation Aware Restoration with Diffusion'
+title: 'Broadband Wide Field of View Imaging with Computational Mirrors'
 subtitle: ''
 summary: ''
 authors:
-  - Niki Nezakati
-  - Arnab Ghosh
-  - Amit Roy-Chowdhury
   - Vishwanath Saragadam
+  - Niki Nezakati
+  - Amit Roy-Chowdhury
+  - Vivek Boominathan
 tags: []
 categories: []
-date: '2025-12-04'
-lastmod: 2025-12-04T00:00:00Z
+date: '2026-08-01'
+lastmod: 2026-08-01T00:00:00Z
 featured: false
 draft: false
 
@@ -30,22 +30,22 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2025-12-04T00:00:00Z'
+publishDate: '2026-08-01T00:00:00Z'
 publication_types:
   - '3'  # 3 = preprint in Wowchemy
 
 abstract: >
   <div class="justify-text">
-  Denoising diffusion models have achieved state-of-the-art performance in image restoration by modeling the process as sequential denoising steps. However, most approaches assume independent and identically distributed (i.i.d.) Gaussian noise, while real-world sensors often exhibit spatially correlated noise due to readout mechanisms, limiting their practical effectiveness. We introduce Correlation Aware Restoration with Diffusion (CARD), a training-free extension of DDRM that explicitly handles correlated Gaussian noise. CARD first whitens the noisy observation, which converts the noise into an i.i.d. form. Then, the diffusion restoration steps are replaced with noise-whitened updates, which inherits DDRM's closed-form sampling efficiency while now being able to handle correlated noise. To emphasize the importance of addressing correlated noise, we contribute CIN-D, a novel correlated noise dataset captured across diverse illumination conditions to evaluate restoration methods on real rolling-shutter sensor noise. This dataset fills a critical gap in the literature for experimental evaluation with real-world correlated noise. Experiments on standard benchmarks with synthetic correlated noise and on CIN-D demonstrate that CARD consistently outperforms existing methods across denoising, deblurring, and super-resolution tasks.
+  Traditional glass-based optics are typically optimized for narrow spectral bands, such as the visible (400–700nm) or shortwave infrared (1000–1800nm). While the emergence of VIS-SWIR sensors (400–1700nm) offers transformative potential, refractive optics struggle to focus this entire range simultaneously. Mirrors represent a promising achromatic alternative; however, they are often sidelined by field curvature, and offaxis aberrations. This paper introduces Computational Mirrors, a framework that enables high-resolution, wide-field-of-view imaging across the complete VIS-SWIR spectrum using a single sensor. Our method is built on the observation that distinct regions of the field of view reach focus at varying distances from the mirror. By capturing a minimal focal stack (2–4 images), we utilize a computational backend to recover a sharp, all-in-focus image. A key contribution of this work is SeidelConv, a novel, physics-inspired, spatially-varying point spread function (PSF) model designed to accurately characterize and correct the off-axis aberrations inherent in simple concave mirrors. We demonstrate the efficacy of our approach using a first-of-its-kind 50mm F/1 optical system equipped with a VIS-SWIR sensor. Our system produces sharp images across RGB, NIR, and SWIR wavelengths without requiring refocusing, revealing material details invisible within individual spectral bands. We further validate the scalability of our approach with a 100mm F/2 system optimized for long-range imaging.
   </div>
 
-publication: '*Under Review*'
+publication: '*The European Conference on Computer Vision (ECCV 2026)*'
 
 links:
   - name: PDF
-    url: https://arxiv.org/pdf/2512.05268.pdf
+    url: https://arxiv.org/pdf/2605.00029
   - name: DOI
-    url: https://arxiv.org/abs/2512.05268
+    url: https://doi.org/10.48550/arXiv.2605.00029
 ---
 <style>
   .justify-text {

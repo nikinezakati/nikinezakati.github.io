@@ -1,6 +1,9 @@
 # IDEs
 .idea/
 
+# Local toolchain (pinned hugo binary)
+.tools/
+
 # Hugo
 resources/
 public/
