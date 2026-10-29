@@ -57,11 +57,11 @@ email: ""
 <div style="text-align: justify;">
 
 
-Hi, I'm Niki, a Computer Science PhD Candidate at the University of California, Riverside, where I work in the [Vision and Learning Group](https://vcg.ece.ucr.edu/) and CODE Lab, advised by Professors [Amit K. Roy-Chowdhury](https://vcg.ece.ucr.edu/amit) and [Vishwanath Saragadam](https://vishwa91.github.io/). I'm currently a Machine Learning Research Intern at <span style="color: #d76bc3;">Apple </span> in Cupertino, CA.
+Hi, I'm Niki, a Computer Science PhD Candidate at the University of California, Riverside, where I work in the [Vision and Learning Group](https://vcg.ece.ucr.edu/) and [CODE Lab](https://codelab-ucr.github.io/), advised by Professors [Amit K. Roy-Chowdhury](https://vcg.ece.ucr.edu/amit) and [Vishwanath Saragadam](https://vishwa91.github.io/). I recently completed a six-month Internship with the AI/ML Research Team at <span style="color: #d76bc3;">Apple </span> in Cupertino, CA, where I worked on efficient, high-fidelity 3D generative modeling.
 
-Before UCR, I completed my B.Sc. in Computer Engineering at Iran University of Science and Technology, where I was admitted with a top 0.07% rank (293 out of 400,000+ participants) in Iran's National University Entrance Exam.
+My research interests span computer vision, generative AI, computational imaging, and robust machine learning, with a focus on developing reliable and efficient models for real-world applications. During my Ph.D., I have worked on diffusion-based image restoration under realistic sensor noise, generative approaches to recovering missing information in multispectral imaging, and robust multimodal learning with incomplete or unreliable inputs. More recently, my research has also included fast image-to-3D generation using flow-based generative models and image-level supervision. I'm particularly interested in problems at the intersection of generative modeling, visual understanding, and robust AI.
 
-My research interests span computer vision, image processing, NLP, and robust machine learning, with a general focus on making AI systems more reliable in real-world settings. During my Ph.D., I have worked on improving the stability and quality of image restoration methods based on diffusion models, and I have explored how multimodal learning systems behave when some inputs are missing or unreliable. I also have experience with 3D reconstruction and neural rendering, including camera pose estimation and modern radiance-field methods. I’m motivated by problems at the intersection of visual understanding, generative modeling, and trustworthy AI. Beyond my research, I enjoy playing the piano and reading novels!
+Beyond my research, I enjoy playing the piano and reading novels!
 
 <!-- During my PhD, I am working on the [GRASP](http://grasp.cs.ucr.edu/) project in the Computer Architecture and Programming Systems (GRASP) Lab.
  -->
